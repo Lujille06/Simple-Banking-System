@@ -1,2 +1,2 @@
 # Simple-Banking-System
-using C++ w/ database
+using C++ w/o database
